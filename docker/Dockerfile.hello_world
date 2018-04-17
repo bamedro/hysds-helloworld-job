@@ -1,4 +1,4 @@
-M hysds/pge-base
+FROM hysds/pge-base
 
 ARG id
 ARG gid
